@@ -52,8 +52,6 @@ Zapi/
 ├── icon/                           # 아이콘 및 스플래시 리소스
 │   ├── zapi_icon.ico               # 앱 및 실행파일 아이콘
 │   └── splash_dark_small.png       # 실행 시 로딩 스플래시 이미지
-├── dist/                           # 빌드 결과 폴더
-│   └── Zapi.exe                    # 빌드된 실행 파일 (생성됨)
 └── build/                          # PyInstaller 임시 폴더 (자동 생성됨)
 ```
 
